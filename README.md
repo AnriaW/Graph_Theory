@@ -30,14 +30,9 @@ The project's file structure is organized as follows:
   - `bellman.cpp`
   - `prim.cpp`
 
-- **bin/:** This directory contains the compiled executable files generated from the source code.
-  - `kosaraju.bin`
-  - `dijkstra.bin`
-  - `kruskal.bin`
-  - `bellman.bin`
-  - `prim.bin`
-
 - **makefile:** This file is used to compile the source code and generate the executable files.
+
+- **Testes** In Bellman-Ford algorithm there is a folder that contains 20 tests.
 
 ## How to Run
 
