@@ -23,7 +23,7 @@ The project includes implementations of the following graph algorithms:
 
 The project's file structure is organized as follows:
 
-- **src/:** This directory contains the source code files written in C++ for each algorithm.
+- **C++ Files** This directory contains the source code files written in C++ for each algorithm.
   - `kosaraju.cpp`
   - `dijkstra.cpp`
   - `kruskal.cpp`
