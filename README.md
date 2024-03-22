@@ -58,7 +58,7 @@ Thank you for exploring our Graph Algorithms Project! Feel free to contribute, p
 
 Have a great day and happy coding! :)
 
-[Repository Link]([https://github.com/yourusername/Graph-Algorithms-Project](https://github.com/AnriaW/Graph_Theory/tree/main))
+[Repository Link]([(https://github.com/AnriaW/Graph_Theory/tree/main)])
 
 ## References
 
