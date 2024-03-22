@@ -1,4 +1,4 @@
-# Graph-Algorithms-Project
+# Graph-Project
 
 This repository was created to store the implementation of various graph algorithms as part of a project for the Graphs discipline at Universidade Federal de Alagoas.
 
@@ -58,7 +58,7 @@ Thank you for exploring our Graph Algorithms Project! Feel free to contribute, p
 
 Have a great day and happy coding! :)
 
-[Repository Link]([(https://github.com/AnriaW/Graph_Theory/tree/main)])
+[Repository Link](https://github.com/AnriaW/Graph_Theory/tree/main)
 
 ## References
 
