@@ -32,7 +32,7 @@ The project's file structure is organized as follows:
 
 - **makefile:** This file is used to compile the source code and generate the executable files.
 
-- **Testes** In Bellman-Ford algorithm there is a folder that contains 20 tests.
+- **Testes:** In Bellman-Ford algorithm there is a folder that contains 20 tests.
 
 ## How to Run
 
